@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203444134751",
+    "project_id": "better-pagination",
+    "storage_bucket": "better-pagination.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203444134751:android:80b4313759e3b1d3ab0cea",
+        "android_client_info": {
+          "package_name": "com.example.better_pagination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203444134751-0jfr5gp3ud7ga5fj7au28b9geolik5ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaKPVh8CHOWvHC9TLoy6WpxBBvfS12wHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203444134751-0jfr5gp3ud7ga5fj7au28b9geolik5ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
